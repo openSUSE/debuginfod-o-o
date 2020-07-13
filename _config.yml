@@ -1,28 +1,28 @@
 lang: en
-title: openSUSE Template
-title_short: Template
-description: Template for openSUSE Websites
+title: openSUSE Debug Info
+title_short: Debug Info
+description: Information about using debuginfod with openSUSE distributions
 email: admin@opensuse.org
 copyright: '© 2020 openSUSE contributors'
 baseurl: ""
-url: "https://template.opensuse.org"
-github_url: "https://github.com/openSUSE/jekyll-template"
+url: "https://debuginfod.opensuse.org"
+github_url: "https://github.com/openSUSE/debuginfod-o-o"
 
 navbar_links:
   -
-    link: https://www.opensuse.org/
-    text: Absolute Link 1
+    link: https://software.opensuse.org/distributions/tumbleweed
+    text: What is Tumbleweed?
   -
-    link: /about/
-    text: Relative Link 2
+    link: https://download.opensuse.org/
+    text: Repositories
 
 footer_links:
   -
     text: Source Code
-    link: https://github.com/openSUSE/jekyll-template
+    link: https://github.com/openSUSE/debuginfod-o-o
   -
     text: License
-    link: https://github.com/openSUSE/jekyll-template/blob/master/COPYING
+    link: https://github.com/openSUSE/debuginfod-o-o/blob/master/COPYING
 
 # Only edit below if you know what you are doing!
 
