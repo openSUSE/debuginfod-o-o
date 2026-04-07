@@ -3,7 +3,7 @@ title: openSUSE Debug Info
 title_short: Debug Info
 description: Information about using debuginfod with openSUSE distributions
 email: admin@opensuse.org
-copyright: '© 2020 openSUSE contributors'
+copyright: '© 2025 openSUSE contributors'
 baseurl: ""
 url: "https://debuginfod.opensuse.org"
 github_url: "https://github.com/openSUSE/debuginfod-o-o"
