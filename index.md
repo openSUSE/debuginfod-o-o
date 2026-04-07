@@ -25,7 +25,7 @@ Debuginfo lets you debug anywhere, anytime.
 
 Right now the service serves only
 [openSUSE Tumbleweed](https://software.opensuse.org/distributions/tumbleweed)
-packages for the x86_64 architecture and runs in an experimental mode.
+packages for the x86_64 and aarch64 architectures and runs in an experimental mode.
 
 Client support will be shortly added into binutils, gdb, strace and
 other tools.
